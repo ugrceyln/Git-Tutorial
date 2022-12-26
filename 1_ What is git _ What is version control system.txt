@@ -1,0 +1,22 @@
+What is git / What is version control ?
+
+- Git is a version control system (VCS)
+- Problems when we don't use VCS ?
+	* Hard disk failure or computer crash
+	* Hard for multiple people to work on same code 
+	* Difficult to track changes, rever back to previous version
+	
+- VCS solvers all those problems
+	* Sync it up from cloud 
+	* Multiple people work on same code. Golden copy is maintained on cloud. Code merge happens using mergetool.
+	* VCS maintains version history, you can revert to any the previous state of your code.
+	
+- different VCS systems
+	* git
+	* mercurial
+	* subversion
+	* ..
+- Git is the best by far VCS, because of 
+	* Distributed version control system
+	* Github - very popular website to host code is based on git 
+	
